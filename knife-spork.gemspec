@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'chef', '>= 0.10.4'
   gem.add_runtime_dependency 'git', '>= 1.2.5'
   gem.add_runtime_dependency 'app_conf', '>= 0.4.0'
-  gem.add_runtime_dependency 'svn', '>= 0.2.0'
+  gem.add_runtime_dependency 'svn-command', '>= 0.2.15'
 end
